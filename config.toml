@@ -5,17 +5,16 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "arm64-v8a"
 build-mode = "both"
 included-patches = "'Enable slide to seek'"
-excluded-patches = "'GmsCore support' 'External downloads'"
+excluded-patches = "'External downloads'"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 arch = "arm64-v8a"
 
 [Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "arm64-v8a"
 build-mode = "both"
-excluded-patches = "'GmsCore support'"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
@@ -27,4 +26,3 @@ arch = "arm64-v8a"
 
 [Strava]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-running-and-cycling-gps/"
-arch = "arm64-v8a"
