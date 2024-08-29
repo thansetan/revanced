@@ -3,11 +3,11 @@ enable-magisk-update = true
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
-patches-version = "v4.9.1"
 integrations-source = "inotia00/revanced-integrations"
-integrations-version = "v1.10.1"
 arch = "arm64-v8a"
 build-mode = "both"
+included-patches = "'Visual preferences icons'"
+excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Hook download actions'"
 
 [Music]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
