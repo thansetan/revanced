@@ -1,6 +1,6 @@
 {
-  "version": "v19.05.36",
-  "versionCode": 19,
-  "zipUrl": "https://github.com/thansetan/revanced/releases/download/19/youtube-revanced-magisk-v19.05.36-arm64-v8a.zip",
+  "version": "v19.16.39",
+  "versionCode": 20,
+  "zipUrl": "https://github.com/thansetan/revanced/releases/download/20/youtube-revanced-magisk-v19.16.39-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/thansetan/revanced/update/build.md"
 }
