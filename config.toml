@@ -29,7 +29,6 @@ arch = "arm64-v8a"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-arch = "arm64-v8a"
 
 [Strava]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-running-and-cycling-gps/"
