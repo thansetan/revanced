@@ -1,7 +1,7 @@
-YouTube: 19.16.39  
 Reddit: 2024.17.0  
-Music: 7.13.52  
+YouTube: 19.05.36  
 Twitch: 16.9.1  
+Music: 7.13.52  
 Strava: 320.12  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
